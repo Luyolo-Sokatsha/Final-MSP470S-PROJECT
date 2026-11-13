@@ -21,7 +21,7 @@ Open the notebooks in the `notebooks/` folder in Google Colab and run them in or
 | 3 | `MSP470S_03_Models_Evaluation_and_Results.ipynb` | Popularity, BPR-MF, logistic regression (B, B+), GNN, ablations, bootstrap, importance, model card | ~8 min |
 | 4 | `MSP470S_04_Sensitivity_Analysis.ipynb` | Six-world sensitivity analysis (optional; `QUICK = True` runs one world) | ~25 min |
 
-## Folder structure
+## What you can find in this repository
 ```
 MSP470S_Project/
 ├── README.md
@@ -39,8 +39,7 @@ MSP470S_Project/
 ## Running without notebooks
 ```
 pip install -r requirements.txt
-cd src && python generate_data.py                # writes the CSVs to the current folder
-# (run Notebook 02 or copy data/*_clean.csv next to the script, then)
+cd src && python generate_data.py              
 MSP_DATA=../data MSP_OUT=../results python msp470s_models.py
 ```
 
