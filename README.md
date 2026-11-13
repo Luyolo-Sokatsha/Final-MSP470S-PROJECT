@@ -1,6 +1,9 @@
 **Author:** Luyolo Sokatsha (student number 217148875)
+
 **Module:** MSP470S Mathematical Sciences Project 4, Advanced Diploma in Mathematical Sciences
+
 **Institution:** Cape Peninsula University of Technology (CPUT)
+
 **Date:** November 2026
 
 ## What this project is
