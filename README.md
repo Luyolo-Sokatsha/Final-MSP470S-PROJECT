@@ -1,4 +1,4 @@
-# Talent Matching: A Graph Neural Network Recommender for Ranking Candidate–Employer Matches
+# Talent Matching: A Graph Neural Network Recommender for Ranking Candidate-Employer Matches
 
 **Author:** Luyolo Sokatsha (student number 217148875)
 **Module:** MSP470S Mathematical Sciences Project 4, Advanced Diploma in Mathematical Sciences
