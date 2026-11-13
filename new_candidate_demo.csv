@@ -1,11 +1,11 @@
 rank,employer_id,sector,region,score
-1,257,Education,Gauteng,3.045
-2,280,Manufacturing,Western Cape,2.971
-3,204,Technology,KwaZulu-Natal,2.943
-4,118,Finance,KwaZulu-Natal,2.581
-5,226,Healthcare,Gauteng,2.376
-6,151,Education,Western Cape,2.301
-7,166,Retail,Western Cape,2.248
-8,54,Logistics,KwaZulu-Natal,2.15
-9,275,Healthcare,Gauteng,2.044
-10,237,Technology,Western Cape,2.04
+1,115,Technology,Gauteng,1.158
+2,165,Retail,KwaZulu-Natal,1.14
+3,203,Manufacturing,Western Cape,1.134
+4,110,Technology,KwaZulu-Natal,1.112
+5,216,Education,Gauteng,1.086
+6,262,Education,Eastern Cape,1.072
+7,169,Education,KwaZulu-Natal,1.048
+8,224,Finance,Western Cape,1.035
+9,207,Logistics,Western Cape,1.013
+10,176,Education,Eastern Cape,1.005

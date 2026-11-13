@@ -1,6 +1,6 @@
 candidate_id,rank,employer_id,employer_sector,candidate_sector_pref,region_match,shared_skills,actually_interacted_in_test
-2,1,257,Education,Retail,True,compliance|project_mgmt,False
-2,2,166,Retail,Retail,False,project_mgmt|python,False
-2,3,22,Education,Retail,True,accounting|excel|project_mgmt,False
-2,4,275,Healthcare,Retail,True,sales,False
-2,5,226,Healthcare,Retail,True,accounting|design,True
+2,1,74,Technology,Retail,False,excel,True
+2,2,1,Education,Retail,True,design|project_mgmt|sales,True
+2,3,101,Education,Retail,True,excel|python,False
+2,4,280,Manufacturing,Retail,False,,False
+2,5,2,Logistics,Retail,False,python,False
