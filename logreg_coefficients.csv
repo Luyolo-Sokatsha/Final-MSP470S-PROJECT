@@ -1,0 +1,11 @@
+feature,std_coefficient
+sector_match,0.2959374269538953
+skills_jaccard,0.27865811475082636
+region_match,0.22795406017665895
+skills_covered_share,0.2081074690226274
+skills_common_count,-0.1914069479891912
+employer_size,-0.030753063788726307
+experience_x_size,-0.027398812385473748
+education_level,-0.01982028209637088
+salary_gap_ratio,-0.01836416653961566
+experience_z,0.011746519637537978
