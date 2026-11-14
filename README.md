@@ -19,7 +19,7 @@ No GPU is needed. Run the notebooks in order. Each one starts with a setup cell 
 | 1 | [MSP470S_01_Synthetic_Data_Generation](https://colab.research.google.com/github/Luyolo-Sokatsha/Final-MSP470S-PROJECT/blob/main/MSP470S_01_Synthetic_Data_Generation.ipynb) | Generates the synthetic candidates, employers and interactions (with deliberate data-quality problems) | ~10 s |
 | 2 | [MSP470S_02_Data_Cleaning_and_EDA](https://colab.research.google.com/github/Luyolo-Sokatsha/Final-MSP470S-PROJECT/blob/main/MSP470S_02_Data_Cleaning_and_EDA.ipynb) | Situation report, documented cleaning, exploration, time-based and cold-start split | ~30 s |
 | 3 | [MSP470S_03_Models_Evaluation_and_Results](https://colab.research.google.com/github/Luyolo-Sokatsha/Final-MSP470S-PROJECT/blob/main/MSP470S_03_Models_Evaluation_and_Results.ipynb) | Popularity, BPR-MF, logistic regression (B, B+), GNN, ablations, bootstrap, importance, model card | ~8 min |
-| 4 | [MSP470S_04_Sensitivity_Analysis](https://colab.research.google.com/github/Luyolo-Sokatsha/Final-MSP470S-PROJECT/blob/main/MSP470S_04_Sensitivity_Analysis.ipynb) | Six-world sensitivity analysis (optional; set `QUICK = True` to run one world) | ~25 min |
+| 4 | [MSP470S_04_Sensitivity_Analysis](https://github.com/Luyolo-Sokatsha/Final-MSP470S-PROJECT/blob/main/MSP470S_04_Sensitivity_Analysis.ipynb) | Six-world sensitivity analysis (optional; set `QUICK = True` to run one world) | ~25 min |
 
 The notebooks in this repository were run in Google Colab and keep their saved outputs.
 
